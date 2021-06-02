@@ -1,4 +1,4 @@
-package Methods;
+package MethodsAPI;
 
 import org.testng.annotations.Test;
 
